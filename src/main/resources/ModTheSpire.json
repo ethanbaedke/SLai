@@ -1,0 +1,10 @@
+{
+  "modid": "SLai",
+  "name": "Test Mod",
+  "author_list": "Ethan Baedke",
+  "description": "An AI for Slay the Spire",
+  "version": "0.0.0",
+  "sts_version": "11-07-2024",
+  "mts_version": "3.14.1",
+  "dependencies": ["basemod"]
+}
